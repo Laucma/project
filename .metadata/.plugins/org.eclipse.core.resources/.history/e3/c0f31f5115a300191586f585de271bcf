@@ -1,0 +1,9 @@
+package 导学;
+
+class HelloWorld
+	{
+	static void main(String[]args) {
+		
+	}
+	}
+
